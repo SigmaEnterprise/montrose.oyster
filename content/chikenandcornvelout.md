@@ -6,6 +6,15 @@ author: shirvan-samlal
 ---
 # Chicken and Corn Velout
 
+**The Flavour Profile**
+Embark on a culinary adventure with this reimagined Chicken and Corn Velouté—a dish that blends tradition with a modern twist, bringing comfort and elegance to your table. Picture the delicate dance of tender chicken and sweet corn, elevated by the airy texture of beaten egg whites, all simmered to perfection in a rich, velvety broth. 
+
+As you whisk together the egg whites and chicken, you’ll feel the anticipation build, knowing that each fold adds a layer of texture and flavor. The moment the corn meets the broth, your kitchen fills with the inviting aroma of home-cooked goodness. A hint of soy sauce and a touch of salt balance the sweetness, while the cornstarch brings the soup to a perfectly smooth consistency.
+
+When you gently stir in the chicken mixture, the soup transforms into a creamy, hearty dish that’s as satisfying to make as it is to eat. And just before serving, a sprinkle of finely chopped ham offers an optional flourish that adds a savory depth to every spoonful.
+
+This isn’t just soup—it’s an experience. A dish that promises warmth, comfort, and a touch of gourmet flair. Serve it in a warm tureen, and watch as your guests eagerly reach for seconds. This Chicken and Corn Velouté isn’t just a meal—it’s a celebration of flavors and a testament to the joy of cooking.
+
 ![Cornsoup](https://eatahfoodtt.com/wp-content/uploads/2020/07/0068-1024x1024.jpg)
 
 - 🍳 Cook time: ~20 minutes
