@@ -62,17 +62,11 @@ document.addEventListener("DOMContentLoaded", () => {
 
 ## Newest Recipes
 
-<ul id="artlist">
-  <li data-tags="[chicken corn easy quick]" ><a href="./chickenandcorn.md">Chicken and Corn Recipe</a></li>
-</ul>
+{{< artlist >}}
 
 ## Or Browse by Category...
 
-<h2>Or Browse by Category&hellip;</h2>
-   <ul id="tagcloud">
-    <li><a href="./chickenandcorn.md" id="tag_chicken">Chicken</a></li>
-    <li><a href="./chickenandcorn.md" id="tag_corn">Corn</a></li>
-    </ul>
+{{< tagcloud >}}
 
 ## About this site
 
@@ -88,19 +82,4 @@ See the story of this site unfold in three videos:
 New recipes can be submitted [on Github](https://github.com/lukesmithxyz/based.cooking).
 We are funded by you only, not 20MB of ads or privacy-violating trackers per page.
 
-<div class="crypto">
-  <div class="crypto-info">
-    <div class="crypto-text">
-      <img alt="" style="max-height:1em;max-width:1em;display:inline" src="/pix/xmr.svg"> Monero <br>
-      <code style="font-size:xx-small;overflow-wrap:break-word;">84N9N3DMWhQ9cstHwGEjo8hEvm9bjeYgjV5fLrGK6TmA9iVPjnU7NMUT7gyAc22UgGAVTCUgReQ1J67znhWP3L52Usfw6jg</code><br>
-    </div>
-    <a href="/pix/monero-based-cooking.png"><img alt="Monero QR Code" class="qr" src="/pix/monero-based-cooking.png"></a>
-  </div>
-  <div class="crypto-info">
-    <div class="crypto-text">
-      <img alt="" style="max-height:1em;max-width:1em;display:inline" src="/pix/btc.svg"> Bitcoin <br>
-      <code style="font-size:small;overflow-wrap:break-word;">bc1q763s4ud0hgfa66ce64gyh6tsss49vyk5cqcm6w</code><br>
-    </div>
-    <a href="/pix/bitcoin-based-cooking.png"><img alt="Bitcoin QR Code" class="qr" src="/pix/bitcoin-based-cooking.png"></a>
-  </div>
-</div>
+{{< crypto >}}
