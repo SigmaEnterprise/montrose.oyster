@@ -15,8 +15,6 @@ When you gently stir in the chicken mixture, the soup transforms into a creamy, 
 
 This isn’t just soup—it’s an experience. A dish that promises warmth, comfort, and a touch of gourmet flair. Serve it in a warm tureen, and watch as your guests eagerly reach for seconds. This Chicken and Corn Velouté isn’t just a meal—it’s a celebration of flavors and a testament to the joy of cooking.
 
-![Cornsoup](https://eatahfoodtt.com/wp-content/uploads/2020/07/0068-1024x1024.jpg)
-
 - 🍳 Cook time: ~20 minutes
 - 🍽️  Servings: 6
 
